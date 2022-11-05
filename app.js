@@ -1,4 +1,4 @@
-alert('Um site simples com objetivo de facilitar sua vida na hora de fazer aquele churrasco com os amigos, familiares e etc...Dúvidas na quantidade de bebidas, carnes e cervejas comprar? Insira quantidade de adultos, crianças e a duração do churrasco.')
+alert('Um site simples com objetivo de facilitar sua vida na hora de fazer aquele churrasco com os amigos, familiares e etc...SAIBA A QUANTIDADE IDEAL DE COMIDAS E BEBIDAS PARA O SEU CHURRAS!')
 let inputadultos = document.getElementById("mens")
 let inputcriancas = document.getElementById("kids")
 let inputduracao = document.getElementById("duration")
